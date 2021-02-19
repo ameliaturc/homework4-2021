@@ -33,6 +33,7 @@ body{
   font-family: "Andika", Sans-Serif;
   background-color: #DDDDDD;
   background-image: url(../images/pigeon-background.JPEG);
+  background-repeat: no-repeat;
 
   /*Req 1*/
 }
@@ -148,6 +149,7 @@ footer{
   text-align:center;
   color: #FFFFFF;
   position: fixed;
-  bottom: 0;
+  bottom:0;
+  left: 0;
 }
 
